@@ -14,8 +14,8 @@ DigitalOcean being part of the sponsors, I was given the opportunity to share ab
 <img align="right" width="50%" height="50%" src="FNqGJWEWYAIqT4L.jpeg">
 </p>
 <p>
-<img align="left" width="50%" height="50% src="RailsGirls-156_Original.jpg">
-<img align="right" width="50%" height="50% src="IMG_1302.JPG">
+<img align="left" width="50%" height="50%" src="RailsGirls-156_Original.jpg">
+<img align="right" width="50%" height="50%" src="IMG_1302.JPG">
 </p>
 
 ## DigitalOcean Accra's Inaugural Meetup
