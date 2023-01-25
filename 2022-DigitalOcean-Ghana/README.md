@@ -5,26 +5,10 @@
 ## DigitalOcean and Rails Girls Kumasi
 
 Rails Girls Kumasi was my first in-person event I attended in Ghana as part of my interest to share about DigitalOcean to the developer communities. On 12th March, 2022, I travelled to Kumasi for this program which brought together many young, ambitious and dedicated ladies interested in getting started with programming and tech professionals. This is a free workshop where these newbies have hands-on experience in computer programming using Ruby on Rails. Together with the program conveners, mentors and speakers, we guided these ladies in installation and setting up their dev environments, creating their application with Ruby on Rails(creating their idea scaffold), using sqlite3 db, git for version control and deploying the application to Heroku and DigitalOcean.
-<div class="row">
-  <div class="column">
-    <img src="IMG_1301.jpg" alt="Snow" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="1649509105070.jpeg" alt="Forest" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="FNqGJWEWYAIqT4L.jpeg" alt="Mountains" style="width:100%">
-  </div>
-</div>
-<style>
-.row {
-  display: flex;
-}
-.column {
-  flex: 33.33%;
-  padding: 5px;
-}
-</style>
+<div>
+<img  src="IMG_1301.jpg" width="250" > &nbsp; 
+<img  src="1649509105070.jpeg" width="250"> &nbsp;
+<img  src="FNqGJWEWYAIqT4L.jpeg" width="250">&nbsp;
 
 For me it was about the experience of everyone involved and the learnings and the goodies the attendees take back home as well as the opportunity to build networking platform among participants after the event. 
 ![Coding session](FNpKbo3XEAIsIZK.jpeg)
