@@ -54,9 +54,9 @@ On Saturday, 21st December, 2022, I travelled about 3hours by bus to Kumasi from
 
 I also had a speaking engagement with the participants on exploring DigitalOcean cloud for their startups and buiding personal projects and in doing so they could inspire their teams to adopt our solutions.
 <img src="20221217_104116.jpg">
-<img src="IMG_1938.jpg" width="33.33%">
-<img src="20221217_104201.jpg" width="33.33%">
-<img src="20221217_102310.jpg" width="33.33%">
+<img src="IMG_1938.jpg" width="33%">
+<img src="20221217_104201.jpg" width="33%">
+<img src="20221217_102310.jpg" width="33%">
 <img src="20221217_142329.jpg">
 
 ## In Conclusion
