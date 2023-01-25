@@ -11,7 +11,7 @@ Rails Girls Kumasi was my first in-person event I attended in Ghana as part of m
 
 
 For me it was about the experience of everyone involved and the learnings and the goodies the attendees take back home as well as the opportunity to build networking platform among participants after the event. 
-![Coding session](/FNpKbo3XEAIsIZK.jpeg)
+![Coding session](FNpKbo3XEAIsIZK.jpeg)
 
 DigitalOcean being part of the sponsors, I was given the opportunity to share about DigitalOcean. And that was a good time to educate the attendees on our cloud solutions, what make us stand out from other cloud providers and how they could build on DigitalOcean. 
 <img style="float: left; width:50%" src="RailsGirls-156_Original.jpg">
