@@ -41,7 +41,6 @@ DigitalOcean was privilege to be part of the sponsors of the open source track a
 <img src="20221013_110245.jpg">
 
 And the conference ended with an opensource sprint where participants were actively contributing to open source as part of hacktoberfest contributions. It was a night of fun and I was overjoyed to see folks passionately looking for projects they would contribute to. Since I work more with PHP, I selected PHPMyAdmin to contribute to.
-
 <img src="IMG_168.JPG">
 <img src="IMG_170.JPG" width="49%">
 <img src="IMG_171.JPG" width="49%">
@@ -54,7 +53,6 @@ After organizing the maiden DigitalOcean meetup for techies in Accra, Rexford an
 On Saturday, 21st December, 2022, I travelled about 3hours by bus to Kumasi from Sefwi Bekwai and Rexford also got to Kumasi from Koforidua within 5hours. I got to the event venue earlier and within some minutes, Rexford was there, handed off the swags to me and I was able to set up a booth with so many swags for the participants. Immediately, after the boot set up, many attendees came around asking if we are selling them? After mentioning, we are here because of them, the excitements on their faces shows that the tech events really need such collaborations. 
 
 I also had a speaking engagement with the participants on exploring DigitalOcean cloud for their startups and buiding personal projects and in doing so they could inspire their teams to adopt our solutions.
-
 <img src="20221217_104116.jpg">
 <img src="IMG_1938.jpg" width="33.33%">
 <img src="20221217_104201.jpg" width="33.33%">
