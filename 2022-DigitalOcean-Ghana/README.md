@@ -20,7 +20,6 @@ Rails Girls Kumasi was my first in-person event I attended in Ghana as part of m
 .row {
   display: flex;
 }
-
 .column {
   flex: 33.33%;
   padding: 5px;
