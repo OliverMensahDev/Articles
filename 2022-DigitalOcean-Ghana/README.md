@@ -28,7 +28,7 @@ To officially launch this meetup, we hosted our inaugural meetup on 20th August,
 
 I led a great introduction to the DigitalOcean community, cloud services and a technical walkthrough of building JAMstack application using DigitalOcean managed Databases, Spaces, App platform and Serverless Function. Rexford also gave a talk on Kubernetes while [Clemence Sedem Agozi](https://www.linkedin.com/in/efocoder/) gave a deep dive into cloud security. Below is the recorded video available on Youtube.
 
-[![DigitalOcean Inaugural Accra Meetup Youtube Video](/DOAM.png)](https://youtu.be/D37ABxkRf9I "Ddadfdsa")
+[![DigitalOcean Inaugural Accra Meetup Youtube Video](DOAM.png)](https://youtu.be/D37ABxkRf9I "Ddadfdsa")
 
 By end of our meetup, many developers were left inspired to explore DigitalOcean cloud solutions and as techies love swags, so we gave out many swags; t-shirts, stickers, hoodies.
 
