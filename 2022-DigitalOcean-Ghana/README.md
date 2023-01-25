@@ -5,17 +5,14 @@
 ## DigitalOcean and Rails Girls Kumasi
 
 Rails Girls Kumasi was my first in-person event I attended in Ghana as part of my interest to share about DigitalOcean to the developer communities. On 12th March, 2022, I travelled to Kumasi for this program which brought together many young, ambitious and dedicated ladies interested in getting started with programming and tech professionals. This is a free workshop where these newbies have hands-on experience in computer programming using Ruby on Rails. Together with the program conveners, mentors and speakers, we guided these ladies in installation and setting up their dev environments, creating their application with Ruby on Rails(creating their idea scaffold), using sqlite3 db, git for version control and deploying the application to Heroku and DigitalOcean.
-<div>
+DigitalOcean being part of the sponsors, I was given the opportunity to share about DigitalOcean. And that was a good time to educate the attendees on our cloud solutions, what make us stand out from other cloud providers and how they could build on DigitalOcean. Personally, it was about the experience of everyone involved and the learnings and the goodies the attendees take back home as well as the opportunity to build networking platform among participants after the event. 
 <img  src="IMG_1301.jpg"> 
 <img  src="1649509105070.jpeg" width="49%">
 <img  src="FNqGJWEWYAIqT4L.jpeg" width="49%">
-
-For me it was about the experience of everyone involved and the learnings and the goodies the attendees take back home as well as the opportunity to build networking platform among participants after the event. 
-![Coding session](FNpKbo3XEAIsIZK.jpeg)
-
-DigitalOcean being part of the sponsors, I was given the opportunity to share about DigitalOcean. And that was a good time to educate the attendees on our cloud solutions, what make us stand out from other cloud providers and how they could build on DigitalOcean. 
 <img src="RailsGirls-156_Original.jpg" width="49%">
 <img src="IMG_1302.JPG" width="49%">
+<img  src="FNpKbo3XEAIsIZK.jpeg">
+
 
 ## DigitalOcean Accra's Inaugural Meetup
 
