@@ -14,8 +14,8 @@ For me it was about the experience of everyone involved and the learnings and th
 ![Coding session](FNpKbo3XEAIsIZK.jpeg)
 
 DigitalOcean being part of the sponsors, I was given the opportunity to share about DigitalOcean. And that was a good time to educate the attendees on our cloud solutions, what make us stand out from other cloud providers and how they could build on DigitalOcean. 
-<img style="float: left; width:50%" src="RailsGirls-156_Original.jpg">
-<img style="width:50%;margin-top:-27px;" src="IMG_1302.JPG">
+<img src="RailsGirls-156_Original.jpg" width="49%">
+<img src="IMG_1302.JPG" width="49%">
 
 ## DigitalOcean Accra's Inaugural Meetup
 
