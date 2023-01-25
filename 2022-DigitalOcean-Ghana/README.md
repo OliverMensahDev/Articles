@@ -36,15 +36,15 @@ By end of our meetup, many developers were left inspired to explore DigitalOcean
 
 DigitalOcean was privilege to be part of the sponsors of the open source track and also as the conference was hosted in October, it was a great opportunity to celebrate hacktoberfest. Rexford Nkansah and I shared with the participants about opensource contributions through the lens of hacktoberfest and DigitalOcean navigators program.
 <img src="IMG_1599.jpg">
-<img style="float: left; width:50%" src="20221014_110926.jpg">
-<img style="width:50%;margin-top:-27px;" src="20221014_105735.jpg">
+<img src="20221014_110926.jpg" width="49%">
+<img src="20221014_105735.jpg" width="49%">
 <img src="20221013_110245.jpg">
 
 And the conference ended with an opensource sprint where participants were actively contributing to open source as part of hacktoberfest contributions. It was a night of fun and I was overjoyed to see folks passionately looking for projects they would contribute to. Since I work more with PHP, I selected PHPMyAdmin to contribute to.
 
 <img src="IMG_168.JPG">
-<img style="float: left; width:50%" src="IMG_170.JPG">
-<img style="width:50%;" src="IMG_171.JPG">
+<img src="IMG_170.JPG" width="49%">
+<img src="IMG_171.JPG" width="49%">
 
 
 ## A revisit to Kumasi for DevFest Kumasi
@@ -56,9 +56,9 @@ On Saturday, 21st December, 2022, I travelled about 3hours by bus to Kumasi from
 I also had a speaking engagement with the participants on exploring DigitalOcean cloud for their startups and buiding personal projects and in doing so they could inspire their teams to adopt our solutions.
 
 <img src="20221217_104116.jpg">
-<img style="float: left; width:33%" src="IMG_1938.jpg">
-<img style="width:33%;" src="20221217_104201.jpg">
-<img style="width:33%;" src="20221217_102310.jpg">
+<img src="IMG_1938.jpg" width="33.33%">
+<img src="20221217_104201.jpg" width="33.33%">
+<img src="20221217_102310.jpg" width="33.33%">
 <img src="20221217_142329.jpg">
 
 ## In Conclusion
