@@ -1,11 +1,11 @@
 # Events on Events – A 2022 Retrospective of DigitalOcean on Ghana's Developer Communities
 
-2022 was a year with various developer communities in Ghana by either supporting developer events through [DigitalOcean global event sponsorship](https://docs.google.com/forms/d/e/1FAIpQLSct7cckz6so_Bb2onRqxFVfAz5fgpK69hsWWgvxy-wm01KewQ/viewform) or hosting DigitalOcean developer events through [Accra meetup chapter](https://www.meetup.com/digitalocean-accra/) of DigitalOcean global meetups. The event engagement has become more than we imagined possible within the year and as I reflect on 2022 DigitalOcean engagements with Ghana's developer community, I wanted to share accounts of events we hosted and supported, recognize the people who made it possible, and what we could do better in the years ahead.
+I happened to join DigitalOcean in late 2021 to contribute to the hacktoberfest program as a contractor. After hacktoberfest, I was tasked to help administrate the open source program, navigators program as well as the global sponsorship program. As someone with interest in organizing developer events and programs, I took upon myself to also help organize DigitalOcean events in Ghana together with [Rexford Nkansah](https://www.linkedin.com/in/khophi/), who happens to be DigitalOcean Ghana's only navigator at the moment. In this article I will share with you our 2022 developer event engagements with Ghana's tech ecosystem through DigitalOcean developer programs. 
 
 ## DigitalOcean and Rails Girls Kumasi
 
-Rails Girls Kumasi was my first in-person event I attended in Ghana as part of my interest to share about DigitalOcean to the developer communities. On 12th March, 2022, I travelled to Kumasi for this program which brought together many young, ambitious and dedicated ladies interested in getting started with programming and tech professionals. This is a free workshop where these newbies have hands-on experience in computer programming using Ruby on Rails. Together with the program conveners, mentors and speakers, we guided these ladies in installation and setting up their dev environments, creating their application with Ruby on Rails(creating their idea scaffold), using sqlite3 db, git for version control and deploying the application to Heroku and DigitalOcean.
-DigitalOcean being part of the sponsors, I was given the opportunity to share about DigitalOcean. And that was a good time to educate the attendees on our cloud solutions, what make us stand out from other cloud providers and how they could build on DigitalOcean. Personally, it was about the experience of everyone involved and the learnings and the goodies the attendees take back home as well as the opportunity to build networking platform among participants after the event. 
+Through [DigitalOcean global event sponsorship](https://docs.google.com/forms/d/e/1FAIpQLSct7cckz6so_Bb2onRqxFVfAz5fgpK69hsWWgvxy-wm01KewQ/viewform), we sponsored Rails Girls Kumasi. Our sponsorship package offers cloud credit for attendees to experiment or build on our cloud solutions, swags and speaking engagement from DigitalOcean representative either remotely or in-person. As a contractor on the DevRel team, I decided to grace this occassion. And also being involved in Ghana's tech community, it would be a good time to also contribute to the program. On 12th March, 2022, I left Sefwi Bekwai, that's where I currently work from, to Kumasi for this program which brought together many young, ambitious and dedicated ladies interested in getting started with programming and tech professionals. This is a free workshop where these newbies have hands-on experience in computer programming using Ruby on Rails. Together with the program conveners, mentors and speakers, we guided these ladies in installation and setting up their dev environments, creating their application with Ruby on Rails(creating their idea scaffold), using sqlite3 db, git for version control and deploying the application to Heroku and DigitalOcean.
+As a speaker, I shared with the attendees about our cloud solutions, what make us stand out from other cloud providers and how they could build on DigitalOcean. Personally, it was about the experience of everyone involved and the learnings and the goodies the attendees take back home as well as the opportunity to build networking platform among participants after the event. 
 <img  src="IMG_1301.jpg"> 
 <img  src="1649509105070.jpeg" width="49%">
 <img  src="FNqGJWEWYAIqT4L.jpeg" width="49%">
@@ -16,10 +16,8 @@ DigitalOcean being part of the sponsors, I was given the opportunity to share ab
 
 ## DigitalOcean Accra's Inaugural Meetup
 
-I have engaged with DigitalOcean in Ghana's developer events in one way or the other when I was leading Facebook Developer Circles Accra(DevCAccra). DigitalOcean sponsored the first hackathon I hosted a community leader for DevCAccra and also got to engage with the DigitalOcean team when they visited Ghana for the first time in 2019. So I 
-couldn't have been proud of ny if I didn't launch a DigitalOcean meetup chapter in Ghana. 
-
-Together with DigitalOcean Navigator in Ghana,[Rexford Nkansah](https://www.linkedin.com/in/khophi/), we started the Accra chapter to bring together local tech professionals of all skill levels to share resources, learn, and form discussions around cloud and DevOps topics including configuration management, containers, databases, monitoring, virtualization, scalability, performance, and more. 
+While administrating the sponsorship program, I spoke at many events remotely and just for the first time to be in Kumasi to interact with event attendees about DigitalOcean, I realized it's time to bring DigitalOcean home through its global meetup chapters.
+Together Rexford, we started the [Accra meetup chapter](https://www.meetup.com/digitalocean-accra/) to bring together local tech professionals of all skill levels to share resources, learn, and form discussions around cloud and DevOps topics including configuration management, containers, databases, monitoring, virtualization, scalability, performance, and more. 
 
 To officially launch this meetup, we hosted our inaugural meetup on 20th August, 2022 which brought together about 50 local tech professionals. 
 
@@ -61,10 +59,4 @@ I also had a speaking engagement with the participants on exploring DigitalOcean
 
 ## In Conclusion
 
-Thanks to the tremendous efforts of our Global Sponsorships Program and Hacktoberfest, 2022 gave all of us reason to contribute to Ghana's developer community. We appreciate the innovation and hardwork from all the event organizers helping grow Ghana's developer community and we know in 2023, we would engage more often through these programs. 
-
-
-
-
-
-
+Thanks to the tremendous efforts of our Global Sponsorships Program and Hacktoberfest, 2022 gave all of us reason to contribute to Ghana's developer community. We appreciate the innovation and hardwork from all the event organizers helping grow Ghana's developer community and we know in 2023, we would engage more often through these programs.
